@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-29T21:22:25 IST" name="SampleHelloDocker.TestHelloDocker" finished-at="2022-09-29T21:22:25 IST" duration-ms="68">
+    <groups>
+    </groups>
+    <test started-at="2022-09-29T21:22:25 IST" name="Command line test" finished-at="2022-09-29T21:22:25 IST" duration-ms="68">
+      <class name="SampleHelloDocker.TestHelloDocker">
+        <test-method signature="TestHelloDocker()[pri:0, instance:SampleHelloDocker.TestHelloDocker@103f852]" started-at="2022-09-29T21:22:25 IST" name="TestHelloDocker" finished-at="2022-09-29T21:22:25 IST" duration-ms="7" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestHelloDocker -->
+      </class> <!-- SampleHelloDocker.TestHelloDocker -->
+    </test> <!-- Command line test -->
+  </suite> <!-- SampleHelloDocker.TestHelloDocker -->
+</testng-results>
